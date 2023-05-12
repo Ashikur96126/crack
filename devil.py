@@ -175,7 +175,7 @@ def menu_apikey():
   print(f"\033[1;31m   COPY YOUR KEY AND SEND TO ADMIN  ");time.sleep(0.1)
   print(f"")
   print(f"  Follow Admin Facebook ID,,,,,,,,,,,,,,,,,    ");time.sleep(1)
- os.system(f'xdg-open https://www.facebook.com/ashikur.rahman.96126')
+ #os.system(f'xdg-open https://www.facebook.com/ashikur.rahman.96126')
   print(f"");time.sleep(2)
   print(f"\x1b[0;34m  CHECKING YOUR APROVAL.............                                                ");time.sleep (0.5)
   try:
