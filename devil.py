@@ -158,11 +158,11 @@ def menu_apikey():
     │ [✓] VERSION  : 1.0.0                
     │ [✓] TOOLS    : \033[1;32m RANDOM NUMBER CLONER  \033[1;37m
     └───────────────────────────────────────┘""")
-  print(f"\t \033[1;32m Admin By MD DEVIL KHAN \033[1;37m ")
+  print(f"\t \033[1;32m Admin By  DEVIL \033[1;37m ")
   print(f"")
-  print(f"\t \033[1;32m  Best Paid Tools Of MD DEVIL KHAN  \033[1;37m ")
+  print(f"\t \033[1;32m  Best Paid Tools Of Ashikur Rahman  \033[1;37m ")
   print(f"")
-  print(f"\t \033[1;32m  Whatsapps Number +8801838873419\033[1;37m ")
+  print(f"\t \033[1;32m  Whatsapps Number +8801841386451\033[1;37m ")
   print(f"")
   print(f"\t \033[1;32m  FIRST GET APPROVEL\033[1;37m ")
   print(f"")
